@@ -1,7 +1,7 @@
 TiTle:-
-    Space Savior
+    'Space Savior'
 Goal:-
-    Defeat The Space Aliens With Your Space Jet
+    Defeat The Space Aliens With Your Space Jet.
 Story:
     You Are the C.E.O Of The HQ of The Space Security Association. As You Enter Your Headquarters, You Hear An Alarm, and A Voice Says,"Space Alert! Space Alert! Aliens Have Attacked The HQs! Prepare For A Deadly Battle!". On Hearing This, Being The C.E.O, You rush To the Space Jet Hanger And Get In The USMAR-106, The Most Powerful Jet Present On Earth And Are Off To Defeat The Aliens  
 PC:-
